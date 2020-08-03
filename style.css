@@ -81,12 +81,10 @@ footer {
     font-size: 1em;
     text-align: center;
     margin: 1% 0 0 0;
-    /* background-color: rgba(0,0,0,0.5); */
 }
 footer a {
     color: red;
     text-decoration: none;
-    /* text-shadow: 2px 2px 5px white; */
     border: 2px solid red;
     border-radius: 25%;
     background-color: rgba(255,255,255,0.6);
@@ -125,8 +123,6 @@ footer a:hover {
     .bg-emoji {
         font-size: 5em;
         overflow: hidden;
-        /* flex-direction: column; */
-        /* justify-content: center; */
         align-items: center;
     }
 }
